@@ -1,0 +1,86 @@
+===== Welcome to the Java Collections Quiz =====
+Answer the following questions:
+
+1. Which collection class allows you to grow or shrink its size and provides indexed access to its elements?
+1. HashSet
+2. ArrayList
+3. LinkedList
+4. TreeSet
+Your answer (1-4): 2
+Correct!
+
+2. Which of these classes implements the Map interface?
+1. HashMap
+2. ArrayList
+3. LinkedList
+4. Vector
+Your answer (1-4): 1
+Correct!
+
+3. Which collection does not allow duplicate elements?
+1. List
+2. Set
+3. Map
+4. Queue
+Your answer (1-4): 2
+Correct!
+
+4. Which collection class maintains insertion order?
+1. HashSet
+2. TreeSet
+3. LinkedHashSet
+4. PriorityQueue
+Your answer (1-4): 3
+Correct!
+
+5. Which of these allows null keys and multiple null values?
+1. TreeMap
+2. Hashtable
+3. HashMap
+4. ConcurrentHashMap
+Your answer (1-4): 3
+Correct!
+
+6. Which class is best for implementing LIFO (Last In First Out)?
+1. Queue
+2. PriorityQueue
+3. Stack
+4. HashSet
+Your answer (1-4): 3
+Correct!
+
+7. Which of these is synchronized by default?
+1. ArrayList
+2. LinkedList
+3. HashMap
+4. Vector
+Your answer (1-4): 4
+Correct!
+
+8. Which interface is the root of the Java Collections Framework?
+1. List
+2. Collection
+3. Map
+4. Iterable
+Your answer (1-4): 2
+Correct!
+
+9. Which collection sorts elements in natural ordering?
+1. HashSet
+2. TreeSet
+3. ArrayList
+4. LinkedHashMap
+Your answer (1-4): 2
+Correct!
+
+10. Which method is used to add an element into a HashMap?
+1. put()
+2. add()
+3. insert()
+4. set()
+Your answer (1-4): 1
+Correct!
+
+===== Quiz Finished =====
+Your Score: 10 out of 10
+ Excellent! Perfect Score!
